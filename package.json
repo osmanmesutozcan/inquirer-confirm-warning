@@ -1,0 +1,27 @@
+{
+  "name": "inquirer-confirm-warning",
+  "version": "1.0.0",
+  "description": "Custom prompt that warns.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsmanMesutOzcan/inquirer-confirm-warning.git"
+  },
+  "keywords": [
+    "cli",
+    "inquirer",
+    "warning",
+    "prompt"
+  ],
+  "author": "Osman M. Ozcan <osmanmesutozcan@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/OsmanMesutOzcan/inquirer-confirm-warning#readme",
+  "dependencies": {
+    "chalk": "1.1.3",
+    "inquirer": "3.0.1",
+    "lodash": "4.17.4"
+  }
+}
