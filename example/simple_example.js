@@ -1,7 +1,6 @@
 'use strict';
 
 var inquirer = require('inquirer');
-const chalk = require('chalk');
 
 inquirer.registerPrompt('warning', require('..'));
 
